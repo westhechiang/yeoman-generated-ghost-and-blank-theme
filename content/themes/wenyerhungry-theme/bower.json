@@ -1,0 +1,21 @@
+{
+  "name": "wenyerhungry-theme",
+  "version": "0.0.1",
+  "authors": [
+    "Wesley Chiang <wesley@obeanstudios.com>"
+  ],
+  "description": "My private template",
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "~3.0.0",
+    "modernizr": "~2.7.2"
+  }
+}
